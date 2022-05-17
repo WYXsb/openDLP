@@ -84,7 +84,7 @@ Python版本：Python 3.7 版本，其他Python版本未经测试。
 + [electra_zh_small_20210706_125427.zip](https://file.hankcs.com/hanlp/transformers/electra_zh_small_20210706_125427.zip) 下载解压到HANLP_HOME/transformers。
 + [char_table.json.zip](https://file.hankcs.com/corpus/char_table.json.zip) 下载解压到HANLP_HOME/thirdparty/file.hankcs.com/corpus。
 
-####启动服务
+#### 启动服务
 
 执行 sensitive_data_analyzer_server.py 文件启动敏感数据识别服务。
 
